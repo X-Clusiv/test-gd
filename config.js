@@ -1,0 +1,9 @@
+export const CONFIG = {
+  WITH_ARRAY: 10,
+  HEIGHT_ARRAY: 10,
+  MIN_VALUE: -100,
+  MAX_VALUE: 100,
+  START_SPACE_COUNT: 4,
+  MAX_NUM_REPEAT: 3,
+  SPACE_CHAR: ' ',
+}
