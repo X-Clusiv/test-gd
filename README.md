@@ -13,6 +13,8 @@ RU:</br>
 
 ```node ./main.js```
 
+П.С. => Для удобства тестирования, вынес переменные в конфиг - **./config.js**
+
 </br>
 </br>
 EN:</br>
@@ -29,3 +31,5 @@ To run the script: </br>
 2) Run the command </br>
 
 ```node ./main.js```
+
+P.S. => For ease of testing, I moved the variables into the config - **./config.js**
